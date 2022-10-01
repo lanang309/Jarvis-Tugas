@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.daftar{
+    text-align: center;
+}
+
+.submit{
+    background:#b4b8bb;
+    color:rgb(19, 16, 16);
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:5px solid #b4b8bb;
+    padding:10px 20px;
+    text-decoration:none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:11pt;
+}
